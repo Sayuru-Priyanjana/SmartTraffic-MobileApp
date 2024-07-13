@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "594422195001",
+    "firebase_url": "https://smart-traffic-a9d28-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-traffic-a9d28",
+    "storage_bucket": "smart-traffic-a9d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594422195001:android:f67c0a54a4220328177ee8",
+        "android_client_info": {
+          "package_name": "com.sayurupriyanjana.traffic_analysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZqIgJQnTx45OEEWc9GapZdPKDMpafe54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
